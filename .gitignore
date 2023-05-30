@@ -5,4 +5,4 @@
 *.mmx
 
 # Compiled Pre-Linked Libraries
-*.plx
+.plx
